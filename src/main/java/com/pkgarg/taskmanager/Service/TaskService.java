@@ -1,4 +1,4 @@
-package com.pkgarg.taskmanager.Service.Service;
+package com.pkgarg.taskmanager.Service;
 
 import com.pkgarg.taskmanager.Model.Task;
 import com.pkgarg.taskmanager.Model.User;

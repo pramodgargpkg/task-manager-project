@@ -1,7 +1,7 @@
 package com.pkgarg.taskmanager.Controller;
 
 import com.pkgarg.taskmanager.Model.Task;
-import com.pkgarg.taskmanager.Service.Service.ITaskService;
+import com.pkgarg.taskmanager.Service.ITaskService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.DeleteMapping;
 import org.springframework.web.bind.annotation.GetMapping;
